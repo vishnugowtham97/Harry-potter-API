@@ -39,5 +39,3 @@ javascript:
 1. const apiKey = 'YOUR_API_KEY';
 2. const endpointUrl = 'https://www.potterapi.com/v1/characters?key=' + apiKey;
 
-## License
-This web application is licensed under the MIT License
